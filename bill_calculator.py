@@ -1,5 +1,5 @@
 print("Welcome to the tip calculator")
-total_bill = input("What is the total bill:")
+total_bill = input("What is your total bill:")
 customer_number = input("What is the number of customers:")
 tip_percentage = input("put the tip percentage:")
 tip_total = float(tip_percentage)/100 + 1
